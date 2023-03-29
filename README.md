@@ -1,8 +1,9 @@
 # Timelog Web
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Build status
-[![Build Status](https://drone.hsiang.me/api/badges/software-system-lab/timelog_web/status.svg)](https://drone.hsiang.me/software-system-lab/timelog_web)
+# IMPORTANT 
+Use node v16 LTS instead of latest version
+
 
 ## Available Scripts
 
